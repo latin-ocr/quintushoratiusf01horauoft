@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quintushoratiusf01horauoft_0066.png"; bbox 0 0 1456 2508; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 163 355 1410 477">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 181 355 1410 477">
+     <span class='ocr_line' id='line_1_1' title="bbox 181 355 1410 432; baseline -0.003 -13"><span class='ocrx_word' id='word_1_1' title='bbox 181 387 283 426; x_wconf 63' lang='lat' dir='ltr'><strong>ndens,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 300 387 494 430; x_wconf 68' lang='lat' dir='ltr'><strong>impdnitos,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 512 396 571 419; x_wconf 72' lang='lat' dir='ltr'><em>m</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 591 386 771 428; x_wconf 49' lang='lat' dir='ltr'><strong>ravennio*</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 781 380 1105 426; x_wconf 53' lang='lat' dir='ltr'><strong>”1⁰th</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1235 355 1410 432; x_wconf 37' lang='grc' dir='ltr'><strong>μὴ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 163 428 1334 477; baseline -0.003 -1.951"><span class='ocrx_word' id='word_1_7' title='bbox 163 442 249 476; x_wconf 73' lang='lat' dir='ltr'><strong>,rem</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 274 433 370 475; x_wconf 70' lang='lat' dir='ltr'><strong>huius</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 393 430 769 477; x_wconf 66' lang='lat' dir='ltr'>1²09th</span> <span class='ocrx_word' id='word_1_10' title='bbox 784 428 963 475; x_wconf 86' lang='grc' dir='ltr'><strong><em>μεν*</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 950 470 955 474; x_wconf 81' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1327 466 1334 472; x_wconf 41' lang='lat'>2</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1456 2508">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1456 2508">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1456 2508; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1456 2508; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
